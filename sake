@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>sake-hemhem</title>
+  <link rel="stylesheet" href="stylesheet.css">
+ </head>
+
+<body>
+ <div class="header">
+  <div class="header-logo>日本の酒の歴史"</div>
+  <div class="header-list">
+   <ul>
+   <li>日本酒</il>
+   <li>焼酎</li>
+   <li>
+   </li>
+  </div>
+ </div>
+
+ <div class="main">
+     <div class="copy-container">
+       <h1>HELLO <span>SAKE</span></h1>
+       <h2>日本の酒の世界へようこそ</h2>
+     </div>
+
+     <div class="contents">
+       <h3 class="section-title">酒の種類</h3>
+       <div class="contents-item">
+         <img src="C:\Users\優希\Desktop\html_lesson\test\日本酒.png">
+         <p>日本酒</p>
+       </div>
+       <div class="contents-item">
+         <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg">
+         <p>PHP</p>
+       </div>
+       <div class="contents-item">
+         <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg">
+         <p>Ruby</p>
+       </div>
+       <div class="contents-item">
+         <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/swift.svg">
+         <p>Swift</p>
+       </div>
+     </div>
+
+     <div class="contact-form">
+       <h3 class="section-title">お問い合わせ</h3>
+       <p>メールアドレス（必須）</p>
+       <!-- <input>要素を追加してください -->
+
+
+       <p>お問い合わせ内容（必須）</p>
+       <!-- <textarea>要素を追加してください -->
+
+
+       <p>※必須項目は必ずご入力ください</p>
+       <!-- <input>要素を追加してください -->
+
+
+     </div>
+   </div>
+
+   <div class="footer">
+     <div class="footer-logo">Progate</div>
+     <div class="footer-list">
+       <ul>
+         <li>会社概要</li>
+         <li>採用</li>
+         <li>お問い合わせ</li>
+       </ul>
+     </div>
+   </div>
+ </body>
+</html><div class="main">
+  <
